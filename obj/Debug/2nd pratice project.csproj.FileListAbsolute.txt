@@ -1,0 +1,7 @@
+C:\Users\nishc\Documents\2nd pratice project\2nd pratice project\2nd pratice project\bin\Debug\2nd pratice project.exe.config
+C:\Users\nishc\Documents\2nd pratice project\2nd pratice project\2nd pratice project\bin\Debug\2nd pratice project.exe
+C:\Users\nishc\Documents\2nd pratice project\2nd pratice project\2nd pratice project\bin\Debug\2nd pratice project.pdb
+C:\Users\nishc\Documents\2nd pratice project\2nd pratice project\2nd pratice project\obj\Debug\2nd pratice project.csproj.AssemblyReference.cache
+C:\Users\nishc\Documents\2nd pratice project\2nd pratice project\2nd pratice project\obj\Debug\2nd pratice project.csproj.CoreCompileInputs.cache
+C:\Users\nishc\Documents\2nd pratice project\2nd pratice project\2nd pratice project\obj\Debug\2nd pratice project.exe
+C:\Users\nishc\Documents\2nd pratice project\2nd pratice project\2nd pratice project\obj\Debug\2nd pratice project.pdb
